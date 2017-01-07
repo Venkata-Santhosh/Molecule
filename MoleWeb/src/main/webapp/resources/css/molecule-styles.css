@@ -1,0 +1,21 @@
+.mole-center{
+		text-align:center;
+	
+}
+.login-panel{
+	margin:0 auto;
+	width:50%;
+	text-align:center;
+}
+
+.register-panel{
+	width:75%;
+	margin: 0 auto;
+}
+
+.panel-body {
+	margin-top: 30px;
+ 	   margin: 0 auto;
+ 	max-width: 330px;
+    padding: 40px 40px;
+}
